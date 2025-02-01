@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMGR03</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message Class for tcode ZMM01 (Material Master Data Mngment)</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Please enter all required parameters</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Download template successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Fail to upload Excel file!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Choose at least 1 line!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>The following value doesn&apos;t exist &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>No data found!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Display ALV fail!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Duplicate material in file</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Material Number already exists in Database</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Material is created successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Material does not exist in System to Extend</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Extend material successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Please enter the Material Number</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Cannot extend error Material</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Material &amp;1 extend successfully!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Dont allow to upload over 150 lines</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Material &amp;1 aldready marked as deletion</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Material &amp;1 aldready unmarked as deletion</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Mark material &amp;1 as deletion successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Revert mark material &amp;1 as deletion successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Sale Org. and Distribution Channel is required to input</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>The material &amp;1 does not exist! Check again!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Action Canceled</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Invalid material format</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Edit successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Are you sure you want to extend material(s)?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Are you sure you want to flag as deletion material(s)?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Are you sure you want to revert flag as deletion material(s)?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Download template fail!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Are you sure you want to edit material(s)?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>The net weight is greater than the gross weight</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>The gross weight is smaller than the net weight</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>The minimum deli.qty must smaller or equal to the minimum order qty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>The minimum order qty must smaller or equal to the minimum deli.qty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>No lines selected for editing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>File has no data</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>No data found!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>The plant(s) does not exist! Check again!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>The storage loccation does not exist! Check again!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Material does not exist in System</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Material Descriptions is created successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Description already exists in language &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Language is required to fill!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>This material number already extend to plant &amp;1 sloc &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Are you sure want to save edited data ?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>You have not changed any rows</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>No data changed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Invalid value &amp;1! Re-enter or using F4 help</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Field &amp;1 is invalid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Value &amp;1 is invalid or initial</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Are you sure you want to add Valuation Type to material(s)?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Unsaved data will be lost. Do you want to continue?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>Add Valuation to Material &amp;1 Plant &amp;2 successfully!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>Material &amp;1: Please enter all required parameters.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Please provide a filename to upload.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Format file error.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>Price must be greater than 0!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>Plant is required</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>Cannot add Valuation to Material has error status.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>No plant available</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>Cannot add Valuation to Material Type Service</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>Cannot extend Plant and Sloc for Material Type Service</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>Cannot add Valuation Area to error lines</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>Description cannot be initial</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>Invalid Delivery Plant! Material not exist in this plant: &amp;1!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>Valuation Type is missing. Price changes are not allowed.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>The Industry Sector is not exists. Check again !!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>The Material Type is not exists. Check again !!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>Material &amp;1 already add Val.Type &amp;2 Val.Class &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>You need to fill Plant first.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>Valuation type &amp;1 is already declared for this material</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>Availability Check change are not allowed for Material Type &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMGR03</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>Check invalid input before execute.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
