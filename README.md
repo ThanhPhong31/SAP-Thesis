@@ -1,6 +1,6 @@
 # SAP Thesis Fall 2024
 ## Welcome to Software Requirement
-### You will find in this repo my project source and document
+### You will find in this repo my project source code and document
   * Blueprint
   * Technical Specification
   * Functional Specification
